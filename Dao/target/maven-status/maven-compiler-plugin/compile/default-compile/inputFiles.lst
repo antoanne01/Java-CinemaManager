@@ -1,0 +1,13 @@
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/DataAdapter.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/dal/RepositoryFactory.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/Director.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/dal/Repository.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/dal/sql/DataSourceSingleton.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/ActorTransferableToMovies.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/Movie.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/MovieArchive.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/Actor.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/User.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/Genre.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/model/MovieTableModel.java
+/Users/antoanne/NetBeansProjects/JavaCinemaProject/Dao/src/main/java/hr/algebra/dal/sql/SqlRepository.java

@@ -1,0 +1,13 @@
+hr/algebra/model/MovieArchive.class
+hr/algebra/dal/Repository.class
+hr/algebra/dal/RepositoryFactory.class
+hr/algebra/model/User.class
+hr/algebra/dal/sql/SqlRepository.class
+hr/algebra/model/DataAdapter.class
+hr/algebra/model/MovieTableModel.class
+hr/algebra/model/Director.class
+hr/algebra/model/Actor.class
+hr/algebra/model/Genre.class
+hr/algebra/model/ActorTransferableToMovies.class
+hr/algebra/dal/sql/DataSourceSingleton.class
+hr/algebra/model/Movie.class
